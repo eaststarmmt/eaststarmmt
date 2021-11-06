@@ -14,6 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Dong Kyu Kim
+### Chung-Ang University, Computer Science & Engineering
+2019.03.02 ~ 2021.08.20
+### Law&Good, Web developer (Front & Back) Intern
+2020.09.01 ~ 2021.02.26
+### Samsung SW Academy For Youth - 6th
+2020.07.08 ~
+
 ## Tech Stack
 ### Android
 <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=AndroidStudio&logoColor=white"/> <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/>
