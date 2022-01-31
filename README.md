@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Dong Kyu Kim
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&text=%20DongkyuKim%20%20&height=200&fontSize=100)
 ### Chung-Ang University, Computer Science & Engineering
 2019.03.02 ~ 2021.08.20
 ### Law&Good, Web developer (Front & Back) Intern
