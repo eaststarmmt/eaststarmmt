@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ### Law&Good, Web developer (Front & Back) Intern
 2020.09.01 ~ 2021.02.26
 ### Samsung SW Academy For Youth - 6th
-2020.07.08 ~
+2021.07.08 ~ 2022.04.11
 
 ## Tech Stack
 ### Android
