@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 2020.09.01 ~ 2021.02.26
 ### Samsung SW Academy For Youth - 6th
 2021.07.08 ~ 2022.04.11
+### N.CODE, Back-End Developer
+2022.04.25 ~
 
 ## Tech Stack
 ### Android
