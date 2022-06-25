@@ -15,14 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&text=%20DongkyuKim%20%20&height=200&fontSize=100)
-### Chung-Ang University, Computer Science & Engineering
-2019.03.02 ~ 2021.08.20
-### Law&Good, Web developer (Front & Back) Intern
-2020.09.01 ~ 2021.02.26
-### Samsung SW Academy For Youth - 6th
-2021.07.08 ~ 2022.04.11
 ### N.CODE, Back-End Developer
 2022.04.25 ~
+
+### Samsung SW Academy For Youth - 6th
+2021.07.08 ~ 2022.04.11
+
+### Law&Good, Web developer (Front & Back) Intern
+2020.09.01 ~ 2021.02.26
+
+### Chung-Ang University, Computer Science & Engineering
+2019.03.02 ~ 2021.08.20
 
 ## Tech Stack
 ### Android
