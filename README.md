@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&text=%20DongkyuKim%20%20&height=200&fontSize=100)
 ### N.CODE, Back-End Developer
-2022.04.25 ~
+2022.04.25 ~ 2022.11.23
 
 ### Samsung SW Academy For Youth - 6th
 2021.07.08 ~ 2022.04.11
