@@ -16,16 +16,16 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&text=%20DongkyuKim%20%20&height=200&fontSize=100)
 # History
-### N.CODE, Back-End Developer
+### N.CODE, Back-End Developer(2022)
 <!-- 2022.04.25 ~ 2022.11.23 -->
 
-### Samsung SW Academy For Youth - 6th
+### Samsung SW Academy For Youth - 6th(2021~2022)
 <!-- 2021.07.08 ~ 2022.04.11 -->
 
-### Law&Good, Web developer (Front & Back) Intern
+### Law&Good, Web developer (Front & Back) Intern(2020~2021)
 <!-- 2020.09.01 ~ 2021.02.26 -->
 
-### Chung-Ang University, Computer Science & Engineering
+### Chung-Ang University, Computer Science & Engineering(2019~2021)
 <!-- 2019.03.02 ~ 2021.08.20 -->
 
 ## Tech Stack
