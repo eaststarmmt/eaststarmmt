@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&text=%20DongkyuKim%20%20&height=200&fontSize=100)
-# History
+## History
 ### N.CODE, Back-End Developer(2022)
 <!-- 2022.04.25 ~ 2022.11.23 -->
 
