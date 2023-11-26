@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <!-- 2022.04.25 ~ 2022.11.23 -->
 
 ### Samsung SW Academy For Youth - 6th(2021~2022)
-<!-- 2021.07.08 ~ 2022.04.11 -->
+<!-- 2021.07.07 ~ 2022.04.11 -->
 
 ### Law&Good, Web developer (Front & Back) Intern(2020~2021)
 <!-- 2020.09.01 ~ 2021.02.26 -->
