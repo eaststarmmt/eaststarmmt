@@ -16,6 +16,14 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&text=%20DongkyuKim%20%20&height=200&fontSize=100)
 ## History
+
+### Lotte Data Communication, MES/POP System Management(2024~)
+
+### CobsLab, Instructor(2023)
+- Sungkyunkwan University(java)
+- Kyobo Life Insurance(java, java script, JSP)
+- LG Electronics(python, data structure, algorithm, problem solving)
+
 ### N.CODE, Back-End Developer(2022)
 <!-- 2022.04.25 ~ 2022.11.23 -->
 
