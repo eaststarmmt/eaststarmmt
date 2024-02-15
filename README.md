@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&text=%20DongkyuKim%20%20&height=200&fontSize=100)
 ## History
 
-### Lotte Data Communication, MES/POP System Management(2024~)
+### Lotte Data Communication Company, MES/POP System Management(2024~)
 
 ### CobsLab, Instructor(2023)
 - Sungkyunkwan University(java)
