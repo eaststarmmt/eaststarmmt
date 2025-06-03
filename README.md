@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ## History
 
-### Lotte Data Communication Company, MES/POP System Management(2024~)
+### Lotte Innovate, Development and Maintenance of Electric Vehicle Charging Platform (2024~)
 
 ### CobsLab, Instructor(2023)
 - Sungkyunkwan University(java)
