@@ -16,11 +16,12 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&text=%20DongkyuKim%20%20&height=200&fontSize=100)
 
+<!--
 <p align="center">
  <b>✨ My Portfolio ✨</b> </br> </br>
  <a href="https://daisy-herring-4ed.notion.site/Dong-Kyu-Kim-79305ec289f54823887d296fbd346141?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/></a> &nbsp 
 </p>
-
+-->
 ## History
 
 ### Lotte Innovate, Development and Maintenance of Electric Vehicle Charging Platform (2024~)
